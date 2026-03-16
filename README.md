@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouzak-dev" alt="ouzak-dev" /></a> </p>
 
-- 🔭 I’m currently working on [IVIV](https://iviv.ma)
+- 🔭 I’m currently looking for a new role in web development.
 
-- 🌱 I’m currently learning **PHP, VUE**
+- 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ouzak-dev](https://github.com/ouzak-dev)
+- 👨‍💻 All of my projects are available at [https://ouzak.dev/projects](https://ouzak.dev/projects)
 
-- 💬 Ask me about **REACT, TYPESCRIPT, PYTHON, FLASK, FASTAPI, SQL, C++**
+- 💬 Ask me about **REACT, NEXTJS, PYTHON, FLASK, FASTAPI, SQL, C++**
 
-- 📫 How to reach me **contact@iviv.ma**
+- 📫 How to reach me **contact@ouzak.dev**
 
-- ⚡ Fun fact **I think I'm ??**
+- ⚡ Fun fact: I'm passionate about building e-commerce solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
