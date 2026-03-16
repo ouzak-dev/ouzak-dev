@@ -13,13 +13,15 @@
 
 - 💬 Ask me about **REACT, NEXTJS, PYTHON, FLASK, FASTAPI, SQL, C++**
 
-- 📫 How to reach me **contact@ouzak.dev**
+- 📫 How to reach me **[contact@ouzak.dev](mailto:contact@ouzak.dev)**
 
 - ⚡ Fun fact: I'm passionate about building e-commerce solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://ouzak.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="ouzak.dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ouzak-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouzak-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/ouzak_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
