@@ -1,30 +1,56 @@
-<h1 align="center">Hi 👋, I'm ZAKARIA AIT OUCHATTOU</h1>
-<h3 align="center">A Fullstack Web Developer from MOROCCO</h3>
+# Hey there! 👋 I'm Ouzak
 
+A passionate **Full Stack Developer** and technology enthusiast dedicated to building elegant, efficient, and user-focused web applications. I love transforming complex problems into simple, beautiful, and intuitive designs.
 
+---
 
-- 🔭 I’m currently looking for a new role in web development.
+## 🚀 About Me
 
-- 🌱 I’m currently learning **PHP**
+- 💻 **Full Stack Web Developer** with experience in frontend and backend technologies
+- 🎯 Focused on writing clean, maintainable code and best practices
+- 📚 Continuous learner who enjoys exploring new technologies and frameworks
+- 🤝 Collaborative developer who values open-source contributions
+- 🎨 Passionate about creating responsive and intuitive user experiences
 
-- 👨‍💻 All of my projects are available at [https://ouzak.dev/projects](https://ouzak.dev/projects)
+---
 
-- 💬 Ask me about **REACT, NEXTJS, PYTHON, FLASK, FASTAPI, SQL, C++**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **[contact@ouzak.dev](mailto:contact@ouzak.dev)**
-
-- ⚡ Fun fact: I'm passionate about building e-commerce solutions.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://ouzak.dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" alt="ouzak.dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ouzak-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouzak-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/ouzak_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ouzak-dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ouzak-dev" /></a></p><br><br>
+## 🎓 Skills & Expertise
+
+| **Category** | **Skills** |
+|---|---|
+| **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), React js, Next js, Typescript, jQuery, Bootstrap |
+| **UI/UX** | Responsive Design, Mobile-First Approach, Accessibility |
+| **Backend Development** | Python, Flask, Django, Fastapi |
+| **Databases** | MySQL |
+| **Version Control** | Git, GitHub |
+| **Tools** | Visual Studio Code, Webpack, npm/pip |
+
+---
+
+## 💡 What I'm Working On
+
+- Expanding backend expertise with modern frameworks
+- Contributing to open-source projects
+- Building full-stack applications with complete CRUD operations
+- Improving UI/UX design skills and accessibility standards
+
+---
+
+## 🌟 Highlights
+
+- ⭐ Clean and semantic code practices
+- 📱 Mobile-responsive applications
+- 🔒 Form validation and security best practices
+- 📊 Data visualization and interactive components
+- 🚀 Performance optimization
+
+---
+
+## 📊 GitHub Stats
+
